@@ -1,0 +1,177 @@
+body,html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    min-width: 1920px;
+     min-height: 1080px;
+      max-width: 2560px;
+       max-height: 1440px;
+       background-color: black;
+    
+}
+
+ol img {
+
+    width: 250px;
+
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+h1 {
+    align-items: center;
+  font-family: impact;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  
+  
+}
+h4 {
+    align-items: center;
+  font-family: impact;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+p {
+    position: relative;
+    top: -500px;
+    margin: 0;
+    padding: 0;
+    height: 4%;
+
+
+   
+}
+
+a:link {
+    color: #ff0000;
+    text-decoration: none;
+    align-items: center;
+}
+a:hover {
+    color: #8b0000;
+    text-decoration: none;
+    align-items: center;
+}
+a:visited {
+    color:#470000;
+    text-decoration: none;
+    align-items: center;
+}
+.button {
+    background-color: #ffffff;
+    border: solid;
+    border-color: #000000;
+    color: white;
+    font-family: Impact;
+    cursor: pointer;
+    border-radius: 16px;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+div .button{
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-decoration: none;
+    font-family: Impact;
+    display: inline-block;
+    font-size: 16px;
+    margin: 70px 5px;
+    cursor: pointer;
+    align-items: left;
+
+}
+
+div {
+    margin: 5px 700px;
+    padding: 15px 32px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
+p a{
+    padding-top: 10px;
+    padding-right: 630px;
+    padding-bottom: 10px;
+    padding-left: 560px;  
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 1px;
+    align-content: center;
+ }
+
+.background {
+  /* The image used */
+  background-image: url("assets/background.jpg");
+
+  /* Set a specific height */
+  height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+  max-height: 100%;
+  max-width: 100%;
+  border: solid;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+   
+.Back2 {
+    display: block;
+
+    max-width: 100%;
+    border: solid;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+   .text1 {
+       position: absolute;
+       top: 1000px;
+       left: 30px;
+    color: #ffffff;
+    font-size: 42px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;   
+}
+.text2 {
+    position: absolute;
+    top: 2100px;
+    left: 1200px;
+ color: #ffffff;
+ font-size: 42px;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ height: 100%;
+ margin: 0;
+ padding: 0;   
+}
+
+   .Back3 {
+    display: block;
+    position: absolute;
+    top: 2800px;
+    max-width: 100%;
+    height: 1000px;
+    border: solid;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
